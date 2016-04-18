@@ -25,3 +25,11 @@ css3练习
 、、、
 
 > 2.做一些效果 “” 加一些图标。
+
+
+4. 属性选择器
+- [attr] 选中attr属性的所有元素；
+- [attr=value] 选中attr属性=value的元素；
+- [attr~flower]  选择 attr 属性包含单词 "flower" 的所有元素;（包含的是一个词）
+5. 伪类选择器
+- :enabled 选择每个启用的input元素
